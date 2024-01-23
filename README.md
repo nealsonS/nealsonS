@@ -3,7 +3,7 @@
 I'm a graduate student in USC's M.S Applied Data Science Program and I graduated with a B.S in Statistics & Data Science from UCSB. <br>
 
 I am currently working on:
-- Utilizing AI Generated Images in Object Detection and Classification models
+- Creating a ChatBot using LLMs with full data pipeline from source to analysis!
 
 In the past, I have worked on projects in NLP, Time Series Analysis, and dimension reduction techniques.
 <!--
