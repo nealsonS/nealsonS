@@ -5,7 +5,7 @@ I'm a graduate student in USC's M.S Applied Data Science Program and I graduated
 I am currently working on:
 - Creating a ChatBot using LLMs with full data pipeline from source to generation!
 
-In the past, I have worked on projects in NLP, Time Series Analysis, and dimension reduction techniques.
+In the past, I have worked on projects in Deep Learning, Database Management Systems, NLP, Time Series Analysis and Forecasting, and dimension reduction techniques.
 <!--
 **nealsonS/nealsonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
