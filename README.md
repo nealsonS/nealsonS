@@ -8,6 +8,8 @@ Currently working on:
 - LLM Text Compressor
 - Multimodal emotion detection using speech, text, and audio
 - (Research): Truck behavior analysis using object tracking and detection algorithms
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/nealson-setiawan-4a1700252/))
 <!--
 **nealsonS/nealsonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
