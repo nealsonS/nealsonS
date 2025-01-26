@@ -2,24 +2,9 @@
 
 I'm a graduate student in USC's M.S Applied Data Science Program and I graduated with a B.S in Statistics & Data Science from UCSB. <br>
 
-In the past, I have worked on projects in Computer vision, Recommender Systems, Distributed Data Mining, Database Management Systems, Natural Language Processing, Time Series Analysis and Forecasting, and dimension reduction techniques.
+In the past, I have worked on projects in Computer vision research, Recommender Systems, Distributed Data Mining using Spark, Database Management Systems, Natural Language Processing, Time Series Analysis and Forecasting, Full Stack Software Development and dimension reduction techniques.
 
 Currently working on:
-- LLM Text Compressor
-- Multimodal emotion detection using speech, text, and audio
+- (CSCI550 - Advanced Data Stores) Extending open-source databases like PostgreSql with new features
+- (DSCI559 - ML for Secure Internet) Computer Networking ML Project
 - (Research): Truck behavior analysis using object tracking and detection algorithms
-
-<!--
-**nealsonS/nealsonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
