@@ -11,7 +11,8 @@ Currently working on:
 
 In the past, I have worked on projects in 
 - Computer vision research
-- Visual Language Models, Graph Neural Networks
+- Visual Language Models
+- Graph Neural Networks
 - Recommender Systems
 - Distributed Data Mining using Spark
 - Database Management Systems
